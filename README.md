@@ -15,6 +15,9 @@ This can be installed in anaconda using the following command:
 
 This dataset was chosen because a college recommended it to me because of the data cleansing challenges it presents, coupled with my previous experience in the loan default arena, I decided to take a stab at it. 
 
+My Medium post can be viewed at: 
+https://medium.com/@786country/you-see-me-loaning-you-machine-learning-ac84ce82b622
+
 3. File Descriptions 
 
 The Files are listed in the below table. (ignoring repository standard files)
@@ -34,7 +37,7 @@ a) The large amount of columns at first was overwhleming, however after some bas
 
 b) The next step was to check for columns that were identical, this also assisted in reducing the final amount of columns to analyse.
 
-c) As there were different types of categorical columns different methods were used to treat them, Ordinal -> Label Encoding and categorical -> one hot encoding 
+c) As there were different types of categorical columns different methods were used to treat them, Ordinal -> Label Encoding and Categorical -> one hot encoding 
 
 d) Row wise null treatment, This took some time exploring the different visualisations of the columns and then deciding on the best approach for each 
 
