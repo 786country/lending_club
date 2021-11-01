@@ -1,7 +1,7 @@
 # lending_club
  Lending Club Data Machine Learning Model
 
-1. Installation 
+## 1. Installation 
 
 The anaconda distribution of anaconda will cover most packages, however the following package(s) will be required to be installed: 
 
@@ -11,14 +11,14 @@ This can be installed in anaconda using the following command:
 
 `conda install -c conda-forge missingno`
 
-2. Project Motivation 
+## 2. Project Motivation 
 
 This dataset was chosen because a college recommended it to me because of the data cleansing challenges it presents, coupled with my previous experience in the loan default arena, I decided to take a stab at it. 
 
 My Medium post can be viewed at: 
 https://medium.com/@786country/you-see-me-loaning-you-machine-learning-ac84ce82b622
 
-3. File Descriptions 
+## 3. File Descriptions 
 
 The Files are listed in the below table. (ignoring repository standard files)
 
@@ -29,7 +29,7 @@ The Files are listed in the below table. (ignoring repository standard files)
 | lending_club_loans.csv | Actual Data used for the project                      |
 | lending_club.ipynb     | Notebook used to perform data engineering/science     |
 
-4. Project Challenges 
+## 4. Project Challenges 
 
 The technical challenges are listed below: 
 
@@ -41,8 +41,8 @@ c) As there were different types of categorical columns different methods were u
 
 d) Row wise null treatment, This took some time exploring the different visualisations of the columns and then deciding on the best approach for each 
 
-5. Licensing, Authors and Aknowledgements 
+## 5. Licensing, Authors and Aknowledgements 
 
 Licensing: MIT can be located in the LICENSE file on the repo 
 
-This work could not have been possible without the help of my friend and college Luqmaan Hassim, he was instrumental in giving advice throughout its development. 
+Aknowledgements: This work could not have been possible without the help of my friend and college Luqmaan Hassim, he was instrumental in giving advice throughout its development. 
