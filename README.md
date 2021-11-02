@@ -3,7 +3,7 @@
 
 ## 1. Installation 
 
-The anaconda distribution of anaconda will cover most packages, however the following package(s) will be required to be installed: 
+The anaconda distribution of python will cover most packages, however the following package(s) will be required to be installed: 
 
 `missingno`
 
